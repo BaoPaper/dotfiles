@@ -114,7 +114,7 @@
         "format-ethernet": "η {ipaddr}",
         "format-disconnected": "χ",
         "tooltip-format": "{ifname}: {ipaddr}",
-        "on-click": "alacritty -e nmtui"
+        "on-click": "alacritty -e impala"
     },
 
     "pulseaudio": {
