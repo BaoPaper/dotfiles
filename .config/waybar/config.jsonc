@@ -4,7 +4,7 @@
     "height": 32,
     "spacing": 8,
 
-    "modules-left": ["hyprland/workspaces", "mpris", "custom/cava"],
+    "modules-left": ["hyprland/workspaces", "mpris"],
     "modules-center": ["hyprland/window"],
     "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "clock", "custom/screenshot", "tray", "custom/power"],
 
@@ -20,7 +20,7 @@
         "tooltip-format": "Power Menu\n⏻ Shutdown\n⟳ Reboot\n⏼ Suspend\n⏾ Hibernate\n⇠ Logout",
         "on-click": "~/.config/waybar/scripts/powermenu.sh"
     },
-    
+
     "hyprland/workspaces": {
         "format": "{icon}",
         "format-icons": {
