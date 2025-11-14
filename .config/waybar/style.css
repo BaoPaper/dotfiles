@@ -74,6 +74,10 @@ color: #ebdbb2;
 margin: 4px 0;
 }
 
+#window {
+  background-color: transparent;
+}
+
 #mpris {
 padding: 0 10px;
 background-color: #3c3836;
