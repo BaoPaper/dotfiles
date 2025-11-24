@@ -1,7 +1,3 @@
-[window]
-# Opacity (0.0 - 1.0, where 1.0 is completely opaque)
-opacity = 0.8
-
 [colors]
 # Enable transparency (this is required for opacity to work)
 transparent_background_colors = true
